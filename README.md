@@ -46,8 +46,8 @@ https://github.com/pranavshan/ConnectNow.git
 
 2. **Install backend dependencies**:
 
-cd backend
-npm install
+- cd backend
+- npm install
 
 
 3. **Install frontend dependencies**:

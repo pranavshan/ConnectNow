@@ -39,28 +39,28 @@ Ensure you have the following installed on your system:
 - MongoDB
 
 # Steps
-Clone the repository:
+1. **Clone the repository**:
 
 https://github.com/pranavshan/ConnectNow.git
 
 
-Install backend dependencies:
+2. **Install backend dependencies**:
 
 cd backend
 npm install
 
 
-Install frontend dependencies:
+3. **Install frontend dependencies**:
 
 cd ../frontend
 npm install
 
-Run the backend server:
+4. **Run the backend server**:
 
 cd ../backend/src
 node app.js
 
-Run the frontend development server:
+5. **Run the frontend development server**:
 
 npm run dev
 

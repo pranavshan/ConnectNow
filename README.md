@@ -52,19 +52,19 @@ npm install
 
 3. **Install frontend dependencies**:
 
-cd ../frontend
-npm install
+- cd ../frontend
+- npm install
 
 4. **Run the backend server**:
 
-cd ../backend/src
-node app.js
+- cd ../backend/src
+- node app.js
 
 5. **Run the frontend development server**:
 
-npm run dev
+- npm run dev
 
-Open the app in your browser at http://localhost:3000.
+6. Open the app in your browser at http://localhost:3000.
 
 # RENER LINK:
 https://connectnow-frontend-4y64.onrender.com
